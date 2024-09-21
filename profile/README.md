@@ -14,3 +14,4 @@ GuestSandbox is Sandbox half-life 2 mod where it gives you the physgun & you do 
 - [X] Swaying Trees
 - [X] Projected texture fixes
 - [X] Custom Commands (like `sv_killshit`)
+- [X] Counter-Strike: Source weapons (WIP)
