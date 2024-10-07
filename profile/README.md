@@ -14,7 +14,7 @@ Combine Sandbox is Sandbox half-life 2 mod where it gives you the physgun & you 
 * TheLocalMoon - Developer
 * J39 - Beta tester
 * Chrisitan Combine - Developer
-* NikToper - Beta Tetser
+* NikToper - Beta Tester
 
 
 # Credits
