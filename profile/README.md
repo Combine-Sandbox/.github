@@ -19,3 +19,5 @@ Combine Sandbox is Sandbox half-life 2 mod where it gives you the physgun & you 
 
 # Credits
 * [Half-life 2 : Sandbox](https://github.com/Planimeter/hl2sb-src) for the Lua
+* [Tingtom](https://github.com/tingtom) for providing the physics gun Thanks lad
+* [VDC](https://developer.valvesoftware.com/wiki/Main_Page)
