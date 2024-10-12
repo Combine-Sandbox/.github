@@ -1,23 +1,22 @@
 # Combine Sandbox
-Welcome to our GitHub
-Combine Sandbox is Sandbox half-life 2 mod where it gives you the physgun & you do shit
+**Combine Sandbox** is Half-Life 2 mod that lets you do anything and anywhere.
 
 # Features
-- [X] Lua
-- [X] Physgun
-- [X] Mounting support
-- [X] Singleplayer support
-- [X] RTT Lighting
-- [X] Python 
+- [X] 2 scripting languages (Lua, Python)
+- [X] Physics Gun
+- [X] Source game mounting support
+- [X] Singleplayer mode support
+- [X] RTT Lighting (crispy shadows)
 
 ## Developers
-* GuestSneezeOSDev - Founder & Lead Developer
-* TheLocalMoon - Developer
-* J39 - Beta tester
-* Chrisitan Combine - Developer & Grammar editor
-* NikToper - Beta Tester
+* GuestSneezeOSDev - Founder, creator
+* ThePixelMoon - Developer
+* Chrisitan Combine - Developer
+
+### Beta Testers
+NikToper, J39
 
 # Credits
-* [Half-life 2 : Sandbox](https://github.com/Planimeter/hl2sb-src) for the Lua
-* [Tingtom](https://github.com/tingtom) for providing the physics gun Thanks lad
-* [VDC](https://developer.valvesoftware.com/wiki/Main_Page)
+* [Half-life 2 : Sandbox](https://github.com/Planimeter/hl2sb-src) for the Lua code
+* [Tingtom](https://github.com/tingtom) for providing the Physics Gun code
+* [Valve Developer Community](https://developer.valvesoftware.com/wiki/Main_Page) for some stuff
