@@ -11,11 +11,13 @@
 ## Developers
 * GuestSneezeOSDev - Founder, creator
 * ThePixelMoon - Developer
-* Chrisitan Combine - Developer
+* acuifex - Developer
+* deadcraftre - Developer
 
 ### Beta Testers
 NikToper, J39
-
+### Mappers
+Chrisitan Combine
 # Credits
 * [Half-life 2 : Sandbox](https://github.com/Planimeter/hl2sb-src) for the Lua code
 * [Tingtom](https://github.com/tingtom) for providing the Physics Gun code
